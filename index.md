@@ -1,3 +1,7 @@
+#Skarlet Williams
+##Github page for CS-HU250
+
+My name is Skarlet Williams, I like to draw, play the flute, and dance.
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/skarletwilliams/skarletwilliams.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
