@@ -1,5 +1,5 @@
-#Skarlet Williams
-##Github page for CS-HU250
+# Skarlet Williams
+## Github page for CS-HU250
 
 My name is Skarlet Williams, I like to draw, play the flute, and dance.
 ## Welcome to GitHub Pages
