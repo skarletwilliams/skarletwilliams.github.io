@@ -26,16 +26,27 @@ all of my newfound problems.</p>
 <p>Now that the home is fixed and I've moved in, I've been using an app called Spark to deliver peoples groceries from Walmart.
 It's a decent way to pay the bills while I search for my post grad career, and it keeps me busy.</p>
 
-### Fun Facts and Hobbies
+# Art and Design Portfolio
 
-## Art and Design Portfolio
+## One Shots
 
-### One Shots
+## Characters
 
-### Characters
+### Azura
+<p> In the game <b>Butterfly Forest</b>: you play as Azura, a little girl lost in the woods. <b>Butterfly Forest</b> is a short puzzle game I designed for a friend of mine. </p>
 
-### Backgrounds
+<img src="images/bf_front.png" alt="Front view of Azura">
+<img src="images/bf_left.png" alt="Left view of Azura">
+<img src="images/bf_back.png" alt="Back view of Azura">
+<img src="images/bf_right.png" alt="Right view of Azura">
 
-### Animations
+### Hannah
+<p> Hannah plays the role of the manic pixie dream girl in a dating sim demo <b>On Track Dating</b> I made a few years ago.</p>
 
-### Blender Models
+#### Original Design
+
+#### Redesign
+
+## Backgrounds
+
+## Blender Models
