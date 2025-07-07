@@ -10,7 +10,7 @@ and a Minor in Mathematics in December 2024. I am passionate about problem solvi
 finding creative new ways to do things that have been done before. </p>
 
 ### Resume 
-<embed src="resume\Skarlet_Williams_Bachelor_Resume.pdf" width="500" height="375" type="application/pdf">
+<embed src="resume\Skarlet_Williams_Bachelor_Resume.pdf" type="application/pdf">
 
 ### Where Am I Now?
 <p>Before I graduated, I purchased a manufactured home in a rural area that had
