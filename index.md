@@ -19,7 +19,7 @@
     <embed src="resume\Skarlet_Williams_Bachelor_Resume.pdf" type="application/pdf">
 
     <h3> Where Am I Now? </h3>
-    <p>Before I graduated, I purchased a manufactured home in a rural area that had affordable lot rent. I then soent the next 4 months renovating that mobile home so it would be livable for my partner and I, and hopefully be a decent and affordable place for my mother to retire to, if possible./p>
+    <p>Before I graduated, I purchased a manufactured home in a rural area that had affordable lot rent. I then soent the next 4 months renovating that mobile home so it would be livable for my partner and I, and hopefully be a decent and affordable place for my mother to retire to, if possible. </p>
 
     <p> The last three months or so I've spent delovering groceries from Walmart to people via the gig app Spark. It has kept me outside more often and provided a decent source of income.</p>
     
