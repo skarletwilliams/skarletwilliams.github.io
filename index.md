@@ -11,7 +11,7 @@
     <h2> About Me </h2>
     <img src="images/prof_grad_photo.jpg" alt="Photo of Skarlet at Graduation">
     <p> Hello! My name is Skarlet Williams. I'm a software engineer, gamer, and artist.
-    My free time is spent reading books, drawing, and playing games. The games I am currently playing mostly consist of Tears of The Kingdom and Stardew Valley. I love playing small games on itch.io and Steam to get ideas and spread the love. </p>
+    My free time is spent watching YouTube and Dropout.tv, drawing, playing games, and reading books. The games I am currently playing mostly consist of Tears of The Kingdom and Into The Breach. I love playing small games on itch.io and Steam to get ideas and spread the love, but aside from PC games I have a soft spot for the Nintendo Switch. My most played game of all time is Dead Cells, an Indie game I bought in highschool that ended up exploding in popularity. </p>
 
     <p>I graduated from Boise State University with a Bachelor of Science in Computer Science and a Minor in Mathematics in December 2024. I am passionate about problem solving and finding creative new ways to do things that have been done before. </p>
 
