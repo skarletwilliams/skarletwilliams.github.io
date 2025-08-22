@@ -6,7 +6,7 @@
   
   <body>
 
-    <h1> Skarlet Williams </h1>
+    <!-- <h1> Skarlet Williams </h1> -->
     
     <h2> About Me </h2>
     <img src="images/prof_grad_photo.jpg" alt="Photo of Skarlet at Graduation">
