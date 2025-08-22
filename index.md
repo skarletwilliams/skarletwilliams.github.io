@@ -1,5 +1,12 @@
+<html>
+  
+  <head>
+    <link rel="stylesheet" href="style.css">
+  </head>
+  <body>
+    
 # Skarlet Williams
-
+    
 ## About Me
 <img src="images/prof_grad_photo.jpg" alt="Photo of Skarlet at Graduation">
 <p> Hello! My name is Skarlet Williams. I'm a software engineer, gamer, and artist.
@@ -42,4 +49,7 @@ affordable lot rent. I then soent the next 4 months renovating that mobile home 
 ## Backgrounds
 
 ## Blender Models
+</body>
 -->
+
+</html>
