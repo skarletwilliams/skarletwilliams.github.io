@@ -6,9 +6,9 @@
   
   <body>
 
-    # Skarlet Williams
+    <h1> Skarlet Williams </h1>
     
-    ## About Me
+    <h2> About Me </h2>
     <img src="images/prof_grad_photo.jpg" alt="Photo of Skarlet at Graduation">
     <p> Hello! My name is Skarlet Williams. I'm a software engineer, gamer, and artist.
     My free time is spent reading books, drawing, and playing games. The games I am currently playing mostly consist of Tears of The Kingdom and Stardew Valley. I love playing small games on itch.io and Steam to get ideas and spread the love. </p>
